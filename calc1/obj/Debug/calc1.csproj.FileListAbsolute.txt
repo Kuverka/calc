@@ -1,0 +1,12 @@
+c:\users\ivan\documents\visual studio 2015\Projects\calc1\calc1\bin\Debug\calc1.exe.config
+C:\Users\ivan\Documents\Visual Studio 2015\Projects\calc1\calc1\bin\Debug\calc1.exe
+C:\Users\ivan\Documents\Visual Studio 2015\Projects\calc1\calc1\bin\Debug\calc1.pdb
+C:\Users\ivan\Documents\Visual Studio 2015\Projects\calc1\calc1\obj\Debug\calc1.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2015\Projects\calc1\calc1\obj\Debug\calc1.Form1.resources
+C:\Users\ivan\Documents\Visual Studio 2015\Projects\calc1\calc1\obj\Debug\calc1.Properties.Resources.resources
+C:\Users\ivan\Documents\Visual Studio 2015\Projects\calc1\calc1\obj\Debug\calc1.csproj.GenerateResource.Cache
+C:\Users\ivan\Documents\Visual Studio 2015\Projects\calc1\calc1\obj\Debug\calc1.exe
+C:\Users\ivan\Documents\Visual Studio 2015\Projects\calc1\calc1\obj\Debug\calc1.pdb
+C:\sharp\calc.git\calc1\bin\Debug\calc1.exe.config
+C:\sharp\calc.git\calc1\obj\Debug\calc1.exe
+C:\sharp\calc.git\calc1\obj\Debug\calc1.pdb
